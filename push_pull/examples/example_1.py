@@ -1,4 +1,4 @@
-from utils.client import create_connection, send_message
+from push_pull.utils.client import create_connection, send_message
 from utils.random_user import get_random_user
 
 
