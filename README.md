@@ -9,3 +9,8 @@ Feel free to use my repo for further information on how things work.
 
 - [@matthew_kinnear](https://www.github.com/matthew_kinnear)
 
+## Credits
+https://zguide.zeromq.org/docs/
+
+## Request-Reply
+![img.png](img.png)
